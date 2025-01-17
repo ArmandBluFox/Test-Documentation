@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98971c0a6bddd9af",
+        "id": "e0448d80b975ea87",
         "type": "tabs",
         "children": [
           {
-            "id": "df87693c35af8a5e",
+            "id": "f18203c6e1ded7ad",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,13 +146,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "cb6543e6ad0c7d05",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 562.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +173,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "df87693c35af8a5e",
+  "active": "a6e3607f87676bed",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Pasted image 20250117091814.png",
+    "Customer/Maintenance/Information Design.md",
+    "Customer/Maintenance/Information.md",
+    "Customer/Maintenance/Drawing 2025-01-17 09.19.08.excalidraw.md",
+    "Customer/Customer.md",
+    "Welcome.md",
+    "Customer/Maintenance/Financial Information.md",
+    "Customer/Maintenance/Account Settings.md",
+    "Customer/Maintenance",
+    "Customer"
   ]
 }
