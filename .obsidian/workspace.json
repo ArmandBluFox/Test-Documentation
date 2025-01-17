@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2efeaadecafa9783",
@@ -185,8 +186,8 @@
   "active": "6c8cb917477c0829",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Welcome.md",
     "Customer/Customer.md",
+    "Welcome.md",
     "Pasted image 20250117091814.png",
     "Customer/Maintenance/Information.md",
     "Customer/Maintenance/Information Design.md",
