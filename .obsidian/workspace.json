@@ -11,14 +11,14 @@
             "id": "6c8cb917477c0829",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Customer/Customer.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Customer"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "6c8cb917477c0829",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Customer/Customer.md",
+    "conflict-files-obsidian-git.md",
     "Welcome.md",
     "Pasted image 20250117091814.png",
     "Customer/Maintenance/Information.md",
